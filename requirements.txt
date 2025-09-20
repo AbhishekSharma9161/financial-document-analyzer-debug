@@ -1,0 +1,18 @@
+# Core dependencies - let pip resolve compatible versions
+crewai==0.130.0
+crewai-tools
+fastapi
+uvicorn
+PyPDF2
+python-dotenv
+python-multipart
+
+# Database dependencies
+sqlalchemy
+
+# Queue system dependencies (optional - for bonus features)
+redis
+rq
+
+# Additional utilities
+python-dateutil
