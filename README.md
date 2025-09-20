@@ -1,4 +1,5 @@
 # Financial Document Analyzer - AI Internship Debug Challenge ✅
+<img width="1414" height="859" alt="Image" src="https://github.com/user-attachments/assets/e1e5b241-fafe-4196-b45d-bd8679626d76" />
 
 ## 🎯 **Assignment Status: COMPLETE WITH ALL BONUS FEATURES**
 
